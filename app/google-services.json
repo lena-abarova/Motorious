@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "769604040861",
+    "firebase_url": "https://motorious-34824.firebaseio.com",
+    "project_id": "motorious-34824",
+    "storage_bucket": "motorious-34824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769604040861:android:668955c2d6c9f922",
+        "android_client_info": {
+          "package_name": "com.speeddigital.motorious"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769604040861-8q3mcpfbstcsosf9pv08deidoaag7oel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.speeddigital.motorious",
+            "certificate_hash": "627a6c3be5207e76c47a4085e3d65ebbc1ea45ac"
+          }
+        },
+        {
+          "client_id": "769604040861-odjfoluks2g0d14jlr2oj4c8miapu1t9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.speeddigital.motorious",
+            "certificate_hash": "09e4d60800cc90fbc9b70c1626f7521e8fce4601"
+          }
+        },
+        {
+          "client_id": "769604040861-0l4k5aerth69sf0npgh1bfjj7u9cm7ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO1OKCAw0Wi756ofMgzD_mTFAbUPqkxno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769604040861-p3dil1kt29hbo6dibll8nid72cb0o10m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
